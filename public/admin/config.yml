@@ -8,7 +8,7 @@ collections:
     - label: "Blog"
       name: "blog"
       folder: "posts"
-      format: "mdx"
+      format: "md"
       slug: '{{slug}}'
       create: true
       fields:
